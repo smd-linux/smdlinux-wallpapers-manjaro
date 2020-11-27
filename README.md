@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# smdlinux-wallpapers-manjaro
+Wallpapers for SMDlinux-Manjaro
